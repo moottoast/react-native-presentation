@@ -1,14 +1,14 @@
 footer: Jeff Juszczak, Vector Solutions, 2016
 slidenumbers: true
 theme: Titillium
-![](https://github.com/moottoast/react-native-presentation/raw/master/images/react-logo-1000-transparent.png)
+![](https://raw.githubusercontent.com/moottoast/react-native-presentation/master/images/react-logo-1000-transparent.png)
 # React Native
 **LEARN ONCE, WRITE ANYWHERE:
 BUILD MOBILE APPS WITH REACT**
 
 ---
 
-![right](https://github.com/moottoast/react-native-presentation/raw/master/images/react-logo-1000-transparent.png)
+![right](https://raw.githubusercontent.com/moottoast/react-native-presentation/master/images/react-logo-1000-transparent.png)
 
 ## What is React Native?
 
@@ -55,7 +55,7 @@ react-native run-ios
 
 ## Make it happen
 
-![inline](https://github.com/moottoast/react-native-presentation/raw/master/images/2____dev_react-native__bash_.png)
+![inline](https://raw.githubusercontent.com/moottoast/react-native-presentation/master/images/2____dev_react-native__bash_.png)
 
 ---
 
@@ -107,7 +107,7 @@ axios.get('https://rallycoding.herokuapp.com/api/music_albums')
 
 #### Flexbox
 
-![inline](/Users/jjuszczak/Desktop/TXH5p.png)
+![inline](https://raw.githubusercontent.com/moottoast/react-native-presentation/master/images/TXH5p.png)
 
 ---
 
@@ -117,7 +117,7 @@ axios.get('https://rallycoding.herokuapp.com/api/music_albums')
 
 ...because Redux
 
-![inline](https://github.com/moottoast/react-native-presentation/raw/master/images/redux_logo.png)
+![inline](https://raw.githubusercontent.com/moottoast/react-native-presentation/master/images/redux_logo.png)
 
 ---
 
@@ -173,10 +173,10 @@ axios.get('https://rallycoding.herokuapp.com/api/music_albums')
 
 ## Taylor [not] Swift
 
-![inline](https://github.com/moottoast/react-native-presentation/raw/master/images/Glass_and_iPhone_6_%E2%80%93_iOS_10_2__14C5062c_.png)
+![inline](https://raw.githubusercontent.com/moottoast/react-native-presentation/master/images/Glass_and_iPhone_6_%E2%80%93_iOS_10_2__14C5062c_.png)
 
 ---
-![left](https://github.com/moottoast/react-native-presentation/raw/master/images/react-logo-1000-transparent.png)
+![left](https://raw.githubusercontent.com/moottoast/react-native-presentation/master/images/react-logo-1000-transparent.png)
 ## More please...
 
 Where can I get more of this sweet, sweet React Native?
@@ -188,4 +188,4 @@ Where can I get more of this sweet, sweet React Native?
 ---
 
 # Thanks!
-![fit](https://github.com/moottoast/react-native-presentation/raw/master/images/giphy.gif)
+![fit](https://raw.githubusercontent.com/moottoast/react-native-presentation/master/images/giphy.gif)
