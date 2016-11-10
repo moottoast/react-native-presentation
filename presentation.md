@@ -1,13 +1,14 @@
 footer: Jeff Juszczak, Vector Solutions, 2016
 slidenumbers: true
-![](/Users/jjuszczak/Desktop/react-logo-1000-transparent.png)
+theme: Titillium
+![](https://github.com/moottoast/react-native-presentation/raw/master/images/react-logo-1000-transparent.png)
 # React Native
 **LEARN ONCE, WRITE ANYWHERE:
 BUILD MOBILE APPS WITH REACT**
 
 ---
 
-![right](/Users/jjuszczak/Desktop/react-logo-1000-transparent.png)
+![right](https://github.com/moottoast/react-native-presentation/raw/master/images/react-logo-1000-transparent.png)
 
 ## What is React Native?
 
@@ -54,7 +55,7 @@ react-native run-ios
 
 ## Make it happen
 
-![inline](/Users/jjuszczak/Desktop/2____dev_react-native__bash_.png)
+![inline](https://github.com/moottoast/react-native-presentation/raw/master/images/2____dev_react-native__bash_.png)
 
 ---
 
@@ -116,7 +117,7 @@ axios.get('https://rallycoding.herokuapp.com/api/music_albums')
 
 ...because Redux
 
-![inline](/Users/jjuszczak/Desktop/redux_logo.png)
+![inline](https://github.com/moottoast/react-native-presentation/raw/master/images/redux_logo.png)
 
 ---
 
@@ -172,10 +173,10 @@ axios.get('https://rallycoding.herokuapp.com/api/music_albums')
 
 ## Taylor [not] Swift
 
-![inline](/Users/jjuszczak/Desktop/Glass_and_iPhone_6_–_iOS_10_2__14C5062c_.png)
+![inline](https://github.com/moottoast/react-native-presentation/raw/master/images/Glass_and_iPhone_6_%E2%80%93_iOS_10_2__14C5062c_.png)
 
 ---
-![left](/Users/jjuszczak/Desktop/react-logo-1000-transparent.png)
+![left](https://github.com/moottoast/react-native-presentation/raw/master/images/react-logo-1000-transparent.png)
 ## More please...
 
 Where can I get more of this sweet, sweet React Native?
@@ -187,4 +188,4 @@ Where can I get more of this sweet, sweet React Native?
 ---
 
 # Thanks!
-![fit](/Users/jjuszczak/Desktop/giphy.gif)
+![fit](https://github.com/moottoast/react-native-presentation/raw/master/images/giphy.gif)
